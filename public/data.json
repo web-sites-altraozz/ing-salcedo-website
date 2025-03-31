@@ -1,0 +1,348 @@
+{
+  "titulo": "Construyendo Espacios Que Cuentan Historias",
+  "descripcion": "Donde la ingeniería y el diseño se encuentran para transformar espacios en experiencias vivas. Creamos entornos que inspiran, emocionan y reflejan el estilo de quienes los habitan, combinando funcionalidad y estética para lograr lugares únicos y memorables.",
+  "content": [
+    {
+      "heading": "Sección 1",
+      "text": "Este es el texto de la sección 1."
+    },
+    {
+      "heading": "Sección 2",
+      "text": "Este es el texto de la sección 2."
+    }
+  ],
+
+  "seccion_1": [
+    {
+      "servicio": "Diseño, control y dirección en proyectos",
+      "icono": "/icons/plano.png",
+      "descripcion": "Para garantizar una ejecución fluida y exitosa"
+    },
+    {
+      "servicio": "Administración de proyectos",
+      "icono": "/icons/project-management.png",
+      "descripcion": "Eficiente gestión para éxito y cumplimiento en proyectos constructivos."
+    },
+    {
+      "servicio": "Aplicación de herramientas de diseño",
+      "icono": "/icons/diseno-grafico.png",
+      "descripcion": "Innovación mediante aplicación estratégica de herramientas de diseño"
+    },
+    {
+      "servicio": "Informes de peritaje",
+      "icono": "/icons/informe-medico.png",
+      "descripcion": "Informes periciales exhaustivos para análisis y evaluación técnica especializada."
+    },
+    {
+      "servicio": "Análisis y diseño estructural",
+      "icono": "/icons/estructura-jerarquica.png",
+      "descripcion": "Utilizando herramientas de vanguardia y metodologías, para ganarntizar eficiencia de las construcciones"
+    },
+    {
+      "servicio": "Diseño y calculo de obras hidráulicas",
+      "icono": "/icons/sistema-de-agua.png",
+      "descripcion": "Cálculos precisos para optimizar el flujo del agua y garantizar su eficiente aprovechamiento."
+    },
+    {
+      "servicio": "Implementación de la norma en nsr10",
+      "icono": "/icons/subasta.png",
+      "descripcion": "Mantenerse al día con las normas es crucial para garantizar la seguridad de las obras civiles."
+    },
+    {
+      "servicio": "Programación y control de obra",
+      "icono": "/icons/trabajadores.png",
+      "descripcion": " Columna vertebral de la obra, asegurando la correcta ejecución de las actividades"
+    }
+  ],
+
+  "seccion_2": [
+    {
+      "proyecto": "Proyecto: Casa bifamiliar.",
+      "imglink": "./images/project_1.jpg",
+      "fecha": "14/03/2025",
+      "tipo": "Residencial",
+      "supervisor": "La Hormiga, Putumayo, Colombia",
+      "contratista": "Arquitectónico"
+    },
+    {
+      "proyecto": "Proyecto: Casa unifamiliar",
+      "imglink": "./images/project_2.jpg",
+      "fecha": "20/12/2024",
+      "tipo": "Residencial",
+      "supervisor": "San francisco, Putumayo, Colombia",
+      "contratista": "Estructural - Arquitectónico"
+    },
+    {
+      "proyecto": "Proyecto: Casa unifamiliar",
+      "imglink": "./images/project_3.jpg",
+      "fecha": "20/12/2024",
+      "tipo": "Residencial",
+      "supervisor": "Melgar, Tolima, Colombia",
+      "contratista": "Arquitectónico"
+    }
+  ],
+  "seccion_3": [
+    "Soy ingeniera civil y mi trabajo abarca desde el diseño y construcción de edificaciones hasta la planificación de espacios funcionales como parqueaderos, estructuras comerciales y áreas urbanas. Además, desarrollo sistemas hidráulicos, de saneamiento y otras infraestructuras esenciales para cada proyecto.",
+    "También me apasiona el diseño arquitectónico y de interiores, porque creo que cada construcción debe ser más que una estructura; debe ser un espacio con propósito, funcionalidad y estética. Mi enfoque une la precisión de la ingeniería con la creatividad del diseño para transformar ideas en proyectos sólidos, eficientes y bien pensados."
+  ],
+
+  "seccion_4": {
+    "titulo": "Clientes que aprueban mi trabajo",
+    "opiniones": [
+      {
+        "nombre": "Albeiro Rosales",
+        "imagen": "./images/avatar_1.webp",
+        "entidad": "Proyecto Residencial",
+        "opinion": "Excelente trabajo y profesionalismo. Desde el primer contacto hasta la entrega final, demuestra compromiso y calidad en cada detalle. ¡Totalmente recomendada!"
+      },
+      {
+        "nombre": "Jesús Gómez",
+        "imagen": "./images/avatar_2.webp",
+        "entidad": "Construcción local comercial.",
+        "opinion": "Nos brindaron soluciones innovadoras y optimizaron costos sin comprometer la calidad. Un servicio confiable y altamente profesional."
+      },
+      {
+        "nombre": "Wilson Gomez",
+        "imagen": "./images/avatar_3.webp",
+        "entidad": "Proyecto Residencial",
+        "opinion": "Gran equipo de trabajo. Siempre atentos a los detalles y abiertos a sugerencias. El resultado final fue mejor de lo esperado. 100% recomendados."
+      }
+    ]
+  },
+
+  "seccion_5": {
+    "titulo": "¿Tienes un proyecto en mente?",
+    "descripcion": "No dejes tu proyecto solo en ideas. Escríbeme y juntos lo convertiremos en una obra segura, eficiente y bien ejecutada. ¡Estoy lista para ayudarte!",
+    "contacto": [
+      {
+        "icono-mdi": "",
+        "texto": "dfernanda.salcedo24@gmail.com"
+      },
+      {
+        "icono-mdi": "",
+        "texto": "3157313902"
+      }
+    ],
+    "imagen": "https://ik.imagekit.io/xorz/Ing.%20D.%20Salcedo/contact_image.png"
+  },
+  "experiencia": {
+    "titulo": "Exeriencia Laboral",
+    "cards_info": [
+      {
+        "logo": "https://i.postimg.cc/QtbTYhCM/escobar-giron-logo.jpg",
+        "empresa": "ESCOBAR GIRON S.A.S SOY CARLOS",
+        "lugar": "Sibundoy, Putumayo, Colombia",
+        "fecha": "04/2023 - 12/2023",
+        "jefe": "Lucero Del Alba Girón Solarte",
+        "contacto": "+57 310 310  6744 ",
+        "isleft": "t",
+        "actividades": [
+          "Diseño, elaboración y preparación de planos de construcción en AutoCAD 2D y 3D.",
+          "Uso de Microsoft Excel y Word: para generar presupuestos, proporciona cálculos avanzados, cotizaciones y proporciona comentarios e informes.",
+          "Manejo de software de análisis, supervisión, diseño y cálculo de estructuras; SketchUp, BIM Autodesk."
+        ]
+      },
+      {
+        "logo": "https://i.postimg.cc/yd9FdL7g/dise-osesctructuras-logo.jpg",
+        "empresa": "Diseño & Estructuras MJ PROYECTOS S.A.S",
+        "lugar": "Carrea 7 N° 156-78, North Point torre 3, Bogotá D.C, Colombia",
+        "fecha": "07/2023- 10/2023.",
+        "jefe": "Jair Useche",
+        "contacto": "+57 310 862 6385",
+        "isleft": "f",
+        "actividades": [
+          "Calculo estructural y estudio de suelos de proyectos de infraestructura.",
+          "Dibujar los despieces de vigas y columnas empleando el programa de computador DCCAD bajo la supervisión del director del proyecto o el ingeniero encargado.",
+          "Analizar las estructuras usando los programas de computador ETABS ocualquier otro similar."
+        ]
+      },
+      {
+        "logo": "https://i.postimg.cc/DzRrn933/obraambiente-logo.jpg",
+        "empresa": "ObraAmbiente S.A.S- Auxiliar de Residente - Practicas de Grado",
+        "lugar": "Cra. 5 N°1B- 24, Pamplona, Norte de Santander",
+        "fecha": "06/2022 – 10/2022",
+        "jefe": "Colombia Moron Santiago",
+        "contacto": "+57 318 386 8035",
+        "isleft": "t",
+        "actividades": [
+          "Efectuar el contrato de obra: Restauración, remodelación y ampliación del inmueble.",
+          "Verificar el comportamiento del cronograma general de la obra, teniendo en cuenta los presupuestos, cantidades de obra y rendimientos.",
+          "Comprobar el cumplimiento de las normas de seguridad y salud en eltrabajo de la obra. "
+        ]
+      },
+      {
+        "logo": "https://i.postimg.cc/vm47RQjv/lacatadora-logo.jpg",
+        "empresa": "La Catadora Liquor Store",
+        "lugar": "Cra 4 N°6-10 Valle del Guamuez, Putumayo, Colombia",
+        "fecha": "10/2021 - 12/2021",
+        "jefe": " Jesús Gómez",
+        "contacto": "+57 311 760 6831",
+        "isleft": "f",
+        "actividades": [
+          "Diseño en SketchUp y acompañamiento en la construcción del local comercial, La Catadora Liquor Store."
+        ]
+      },
+      {
+        "logo": "https://i.postimg.cc/DwjQYWCZ/secretariaplaneacion-logo.jpg",
+        "empresa": "Secretaría de Planeación y Obras Públicas - Practicante en Proyecto Municipal",
+        "lugar": "Cl. 7 #511, La Hormiga, Valle Del Guamuez, Putumayo",
+        "fecha": "08/2021 - 09/2021",
+        "jefe": ": Cesar Augusto Rodriguez Vargas",
+        "contacto": "+57 84282006",
+        "isleft": "t",
+        "actividades": [
+          "Formulación y seguimiento a convenios solidarios conjuntas de acción comunal en la modalidad comunidad - gobierno del municipio Valle de Guamuez."
+        ]
+      }
+    ]
+  },
+  "s": {
+    "titulo": "owo",
+    "habilidades": [
+      {
+        "nombre": "Análisis de precios unitarios",
+        "porcentaje": "80"
+      },
+      {
+        "nombre": "Elaboración de informes técnicos",
+        "porcentaje": "80"
+      },
+      {
+        "nombre": "Inspección y control de obra",
+        "porcentaje": "80"
+      },
+      {
+        "nombre": "Planificación",
+        "porcentaje": "80"
+      },
+      {
+        "nombre": "Elaboración de presupuesto y cronograma",
+        "porcentaje": "80"
+      },
+      {
+        "nombre": "Manejo de personal",
+        "porcentaje": "80"
+      }
+    ],
+    "herramienas": [
+      {
+        "nombre": "SketchUp",
+        "img": "./images/logo/SketchUp-Logo.png"
+      },
+      {
+        "nombre": "AutoCAD",
+        "img": "./images/logo/autocad-logo-69326D7728-seeklogo.com.png"
+      },
+      {
+        "nombre": "Revit",
+        "img": "./images/logo/revit_grande.webp?v=1693678103"
+      },
+      {
+        "nombre": "Project",
+        "img": "./images/logo/Microsoft_Project_%282019%E2%80%93present%29.svg/640px-Microsoft_Project_%282019%E2%80%93present%29.svg.png"
+      },
+      {
+        "nombre": "ETABS",
+        "img": "./images/logo/5_logo_white.png"
+      }
+    ],
+    "diplomas": [
+      {
+        "titulo": "Ingeniería Civil",
+        "institucion": "Universidad de Pamplona",
+        "lugar": "Norte de Santander, Colombia",
+        "fecha": "2023",
+        "icono": "mdi-school-outline"
+      },
+      {
+        "titulo": "Bachiller Comercial",
+        "institucion": "IE CIUDAD LA HORMIGA",
+        "lugar": "Putumayo, Colombia",
+        "fecha": "2014",
+        "icono": "mdi-school-outline"
+      }
+    ],
+    "cursos": [
+      {
+        "titulo": "Curso en Uso de Microsoft Excel en labores operativas y administrativas en el sector productivo",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Barranquilla, Colombia",
+        "fecha": "2023",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Modelado en 3D con la herramienta Sketchup",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Dosquebradas, Colombia ",
+        "fecha": "2023",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Costos y presupuestos para edificaciones III Administración, Imprevistos y Utilidades",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Armenia, Colombia ",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Manejo de 3D Studio max Desing",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Armenia, Colombia ",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Revit Basico",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Armenia, Colombia ",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Costos y Presupuestos para Edificaciones II : Costos Directos",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Bogotá D.C, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Costos y Presupuestos Para Construcción",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Cundinamarca, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+
+      {
+        "titulo": "Curso en Diseño Asistido por Computador - AutoCAD 3D",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Quindío, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+
+      {
+        "titulo": "Curso en Microsoft Project: Aplicación en la Programación de Obras",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Quindío, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+      {
+        "titulo": "Curso en Diseño y planos en AutoCAD 2D",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Tolima, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      },
+
+      {
+        "titulo": "Curso en Interpretación de Planos",
+        "institucion": "Servicio Nacional de Aprendizaje SENA",
+        "lugar": "Putumayo, Colombia",
+        "fecha": "2021",
+        "icono": "mdi-certificate-outline"
+      }
+    ]
+  }
+}

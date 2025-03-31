@@ -1,0 +1,265 @@
+$sapa: #0073b0;
+
+.inicio-container {
+  max-width: 1900px;
+  hr {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .services-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10%;
+    margin: 3rem 0;
+
+    h2 {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .container-cards {
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .item {
+        background-color: #162435;
+        height: 12rem;
+        width: 20rem;
+        margin: 10px 10px;
+        border-radius: 8px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: #dbdbdb;
+
+        img {
+          height: 64px;
+          width: 64px;
+        }
+
+        h3 {
+          font-size: medium;
+          font-weight: bolder;
+          padding: 10px 0;
+        }
+
+        p {
+          text-align: justify;
+        }
+      }
+    }
+  }
+
+  .proyectos-container {
+    padding: 0 10%;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2 {
+      width: 100%;
+      text-align: left;
+      margin-bottom: 40px;
+    }
+
+    .card-proyectos {
+      margin: 50px 0;
+      height: 300px;
+      max-width: 800px;
+      display: flex;
+      flex-wrap: wrap;
+
+
+      img {
+        width: 100%;
+        max-height: 300px;
+        height: auto;
+        max-width: 500px;
+      }
+
+      .info {
+        height: 100%;
+        width: 100%;
+        max-width: 200px;
+        background-color: #162435;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+      }
+
+      .bordes-de {
+        border-radius: 0 8px 8px 0;
+      }
+
+      .bordes-iz {
+        border-radius: 8px 0 0 8px;
+      }
+    }
+  }
+
+  .sobre-mi-section {
+    margin: 3rem 0;
+
+    .cont-im {
+      margin-bottom: 2rem;
+      max-width: 400px;
+
+      img {
+        border-radius: 8px;
+        width: auto;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .info {
+
+      p {
+        text-align: justify;
+      }
+    }
+  }
+
+  .clientes-section {
+    padding: 0 10%;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .opinion-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      width: 100%;
+      margin: 50px 0;
+      column-gap: 1rem;
+
+      .card-op {
+        background-color: #162435;
+        border-radius: 10px;
+        width: 20rem;
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        hr {
+          margin: 1rem 0;
+        }
+
+        p {
+          text-align: justify;
+        }
+
+        .info-card {
+          display: flex;
+          justify-content: start;
+          width: 100%;
+          align-items: center;
+
+          .card-text {
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            justify-content: center;
+            padding-left: 1rem;
+
+            h3 {
+              font-size: medium;
+              color: rgb(255, 191, 0);
+            }
+
+            p {
+              font-size: small;
+            }
+          }
+
+          img {
+            height: 64px;
+            width: auto;
+            border-radius: 100px;
+          }
+        }
+      }
+    }
+  }
+
+
+  /*
+  .contacto-section {
+    width: 100%;
+    margin-top: 3rem;
+
+    h2 {
+      width: 100%;
+      text-align: center;
+      font-size:1.5rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .container {
+      width: 100%;
+      flex-wrap: wrap;
+      margin: 2rem 0;
+
+      .info {
+        width: 100%;
+        margin-bottom: 2rem;
+        img {
+          width: 100%;
+          max-width: 600px;
+          height: auto;
+        }
+      }
+
+      .is_mobile {
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0 2rem;
+        text-align: justify;
+      }
+
+      .isnt_mobile {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .form {
+        width: 100%;
+
+        .input-form {
+          background-color: #162435;
+          border: #0073b0;
+        }
+      }
+
+      .cont {
+        a {
+          display: flex;
+        }
+        p {
+          margin-left: 1rem;
+          font-weight: 500;
+          color: white;
+        }
+      }
+    }
+  }
+
+  */
+}
